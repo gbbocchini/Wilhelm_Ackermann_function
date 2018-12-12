@@ -1,7 +1,8 @@
 # Wilhelm_Ackermann_function
 Ackerman´s function in Python! (2 scripts: no user input and user inputable)
 
-History: https://en.wikipedia.org/wiki/Ackermann_function 
+History: https://en.wikipedia.org/wiki/Ackermann_function // https://www.youtube.com/watch?v=i7sm9dzFtEI
+
 
 # Advice: use only positive integers, most systems have stack protection...but you never know (if you use floats or negatives, boy, you are in for hell)!
 
